@@ -101,6 +101,95 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\assets\img\AdminLTELogo.png" />
+    <Content Include="Content\assets\img\logo-xl.png" />
+    <Content Include="Content\assets\img\logo-xs.png" />
+    <Content Include="Content\assets\img\user1-128x128.jpg" />
+    <Content Include="Content\assets\img\user2-160x160.jpg" />
+    <Content Include="Content\assets\img\user3-128x128.jpg" />
+    <Content Include="Content\assets\img\user4-128x128.jpg" />
+    <Content Include="Content\assets\img\user5-128x128.jpg" />
+    <Content Include="Content\assets\img\user6-128x128.jpg" />
+    <Content Include="Content\assets\img\user7-128x128.jpg" />
+    <Content Include="Content\assets\img\user8-128x128.jpg" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.bundle.js" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.js" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Content\plugins\fontawesome-free\css\all.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\all.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\brands.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\brands.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\fontawesome.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\fontawesome.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\regular.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\regular.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\solid.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\solid.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\svg-with-js.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\svg-with-js.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\v4-shims.css" />
+    <Content Include="Content\plugins\fontawesome-free\css\v4-shims.min.css" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-brands-400.svg" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-regular-400.svg" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-solid-900.svg" />
+    <Content Include="Content\plugins\jquery\jquery.js" />
+    <Content Include="Content\plugins\jquery\jquery.min.js" />
+    <Content Include="Content\plugins\jquery\jquery.slim.js" />
+    <Content Include="Content\plugins\jquery\jquery.slim.min.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\adminlte.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\adminlte.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.components.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.components.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.core.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.core.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.extra-components.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.extra-components.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.light.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.light.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.pages.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.pages.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.plugins.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.plugins.min.css" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\AdminLTELogo.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\avatar.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\avatar2.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\avatar3.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\avatar4.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\avatar5.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\boxed-bg.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\boxed-bg.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\american-express.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\cirrus.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\mastercard.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\paypal.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\paypal2.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\credit\visa.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\default-150x150.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\icons.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\photo1.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\photo2.png" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\photo3.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\photo4.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\prod-1.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\prod-2.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\prod-3.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\prod-4.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\prod-5.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user1-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user2-160x160.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user3-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user4-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user5-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user6-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user7-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\img\user8-128x128.jpg" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\adminlte.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\adminlte.min.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\demo.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\pages\dashboard.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\pages\dashboard2.js" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\pages\dashboard3.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -113,9 +202,51 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.bundle.js.map" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.js.map" />
+    <Content Include="Content\plugins\bootstrap\js\bootstrap.min.js.map" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-brands-400.eot" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-brands-400.ttf" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-brands-400.woff" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-brands-400.woff2" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-regular-400.eot" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-regular-400.ttf" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-regular-400.woff" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-regular-400.woff2" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-solid-900.eot" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-solid-900.ttf" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-solid-900.woff" />
+    <Content Include="Content\plugins\fontawesome-free\webfonts\fa-solid-900.woff2" />
+    <Content Include="Content\plugins\jquery\jquery.min.map" />
+    <Content Include="Content\plugins\jquery\jquery.slim.min.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\adminlte.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\adminlte.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.components.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.components.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.core.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.core.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.extra-components.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.extra-components.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.light.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.light.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.pages.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.pages.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.plugins.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\css\alt\adminlte.plugins.min.css.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\.eslintrc.json" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\adminlte.js.map" />
+    <Content Include="Content\ui-framework\admin-lte-3.2.0\js\adminlte.min.js.map" />
     <None Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="Views\Shared\_ControlSidebar.cshtml" />
+    <Content Include="Views\Shared\_Footer.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Shared\_MainSidebar.cshtml" />
+    <Content Include="Views\Shared\_NavBar.cshtml" />
+    <Content Include="Views\_ViewImports.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -124,6 +255,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Content\css\" />
+    <Folder Include="Content\js\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
