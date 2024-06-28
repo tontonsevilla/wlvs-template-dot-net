@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Web.Mvc;
 using System.Web.Routing;
 using WLVSTemplateDotNet.Web.App_Start;
 
@@ -10,6 +11,7 @@ namespace WLVSTemplateDotNet.Web
         protected void Application_Start(object sender, EventArgs e)
         {
             RouteConfig.Register(RouteTable.Routes);
+            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
         }
 
         protected void Session_Start(object sender, EventArgs e)
